@@ -17,13 +17,6 @@
     gap: 15%;
 }
 
-
-
-
-
-
-
-
 #image1{
     width: 20px;
 }
@@ -58,4 +51,24 @@
 }
 #globally{
     text-align: center;
+}
+button{
+    color: chartreuse;
+}
+
+@media screen and (min-width:390px) and (max-width:590px){
+    #container{
+        display: block;
+        
+    }
+
+    #images5{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+#footer{
+    display: block;
+}
+
 }
