@@ -1,0 +1,61 @@
+#container{
+    display: flex;
+    gap: 15%;
+}
+#h3{
+    text-align: center;
+}
+#images5{
+    display: flex;
+    width: 200px;
+    height: 100px;
+    gap: 5%;
+}
+
+#products{
+    display: flex;
+    gap: 15%;
+}
+
+
+
+
+
+
+
+
+#image1{
+    width: 20px;
+}
+#image2{
+    width: 20px;
+}
+#image3{
+    width: 20px;
+}
+#footer{
+    display: flex;
+    gap: 10%;
+}
+#download{
+    display: flex;
+    gap: 20%;
+    
+}
+#img{
+    width: 300px;
+}
+#businessman{
+    display: flex;
+    gap: 15%;
+}
+#somewords{
+    text-align: center;
+}
+#interface{
+    display: flex;
+    gap: 15%;
+}
+#globally{
+    text-align: center;
+}
